@@ -566,4 +566,8 @@
         flex-direction: column;
         align-items: flex-start;
     }
+
+    .main-section2>.section2-graph {
+        font-size: 15px;
+    }
 }
